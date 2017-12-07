@@ -1,4 +1,4 @@
-class calc
+class calcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 {
 	public static void main(String[] ggg)
 	{
